@@ -1,6 +1,7 @@
 # bhlegacylinuxlauncher
 Linux launcher for the legacy brick-hill client
 
+I've only tested this on firefox, so if it doesn't work on chromium/webkit based browsers you'll need to use firefox!
 
 # Requirements
 * Linux (duhh)
