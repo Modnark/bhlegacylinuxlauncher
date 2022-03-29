@@ -23,6 +23,6 @@ If everything went well you should now be able to play any game on the legacy cl
 # Known issues
 Unfortunately, there are some issues that I have no solution to. Maybe it's only me who has these problems, but I'll put them here so you know what to expect.
 
-* When closing the client your screen will go black for a second
+* When closing the client your screen will briefly go all black.
 * Playing the game in maximized mode leads to crashing 99% of the time
 * There is performance loss compared to running this natively on windows (playability depends on your hardware)
