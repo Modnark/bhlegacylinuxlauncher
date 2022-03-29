@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Brick Hill
+Exec=sh -c 'python3 ~/.local/share/applications/launcher.py %u'
+Type=Application
+Terminal=false
+MimeType=text/html;x-scheme-handler/brickhill.legacy;
