@@ -11,7 +11,7 @@ Linux launcher for the legacy brick-hill client
 # Installation guide
 * Install brick-hill using wine
 * Open a new terminal window
-* cd to ~/.local/share/applications
+* run "cd ~/.local/share/applications"
 * run "git clone https://github.com/Modnark/bhlegacylinuxlauncher.git"
 * run "mv bhlegacylinuxlauncher/launcher.py ./"
 * run "mv bhlegacylinuxlauncher/brick-hill.desktop ./"
