@@ -21,7 +21,7 @@ Linux launcher for the legacy brick-hill client
 If everything went well you should now be able to play any game on the legacy client!
 
 # Known issues
-Unfortunately, there are some issues that I have no solution to. Maybe it's only me who has these problems, but I'll put them here as a heads up.
+Unfortunately, there are some issues that I have no solution to. Maybe it's only me who has these problems, but I'll put them here so you know what to expect.
 
 * When closing the client your screen will go black for a second
 * Playing the game in maximized mode leads to crashing 99% of the time
