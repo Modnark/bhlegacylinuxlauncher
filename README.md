@@ -1,10 +1,12 @@
 # bhlegacylinuxlauncher
 Linux launcher for legacy brick-hill client
 
+
 # Requirements
-Linux (duhh)
-Wine
-Python3
+* Linux (duhh)
+* Wine
+* Python3
+
 
 # Installation guide
 * Install brick-hill using wine
