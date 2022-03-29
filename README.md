@@ -1,5 +1,5 @@
 # bhlegacylinuxlauncher
-Linux launcher for legacy brick-hill client
+Linux launcher for the legacy brick-hill client
 
 
 # Requirements
