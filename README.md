@@ -13,6 +13,6 @@ Linux launcher for legacy brick-hill client
 * Open a new terminal window
 * cd to ~/.local/share/applications
 * run "git clone https://github.com/Modnark/bhlegacylinuxlauncher.git"
-* run "mv bhlegacylinuxlauncher/launcher.py ../"
-* run "mv bhlegacylinuxlauncher/brick-hill.desktop ../"
+* run "mv bhlegacylinuxlauncher/launcher.py ./"
+* run "mv bhlegacylinuxlauncher/brick-hill.desktop ./"
 * run "rm -rf bhlegacylinuxlauncher", this will remove any remaining files that we don't need
